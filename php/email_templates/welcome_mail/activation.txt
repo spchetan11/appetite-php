@@ -1,0 +1,62 @@
+<tr>
+   <td class="innerpadding borderbottom" style="border-bottom-width: 1px; border-bottom-color: #f2eeed; border-bottom-style: solid; padding: 30px;">
+       <table align="left" border="0" cellpadding="0" cellspacing="0" width="115">
+          <tbody>
+             <tr>
+                <td height="100" style="padding: 0 5px 10px 0;"><img alt="" border="0" class="fix" height="80" src="{img_activate}" style="height: auto;" width="80" /></td>
+             </tr>
+          </tbody>
+       </table>
+       <!--[if (gte mso 9)|(IE)]>
+       <table width="380" align="left" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+             <td>
+                <![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" class="col380" style="width: 100%; max-width: 395px;">
+                   <tbody>
+                      <tr>
+                         <td>
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                               <tbody>
+                                  <tr>
+                                     <td class="bodycopy" style="color: #153643; font-family: sans-serif; font-size: 16px; line-height: 22px;">Get started straight away, click on the button below to activate your account<br />
+                                     </td>
+                                  </tr>
+                                  <tr>
+                                     <td style="padding: 20px 0 0;">
+                                        <table bgcolor="#e05443" border="0" cellpadding="0" cellspacing="0" class="buttonwrapper">
+                                           <tbody>
+                                              <tr>
+                                                 <td align="center" class="button" height="45" style="text-align: center; font-size: 18px; font-family: sans-serif; font-weight: bold; padding: 0 30px;"><a href="https://www.mobiroster.com/mobiroster/activation.php?activationCode={activation_code}" style="color: #ffffff; text-decoration: none;">Activate Now</a></td>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                     </td>
+                                  </tr>
+                                  <tr>
+                                     <td style="padding: 20px 0 0;">
+                                        <table border="0" cellpadding="0" cellspacing="0" class="buttonwrapper">
+                                           <tbody>
+                                              <tr style="color: #153643; font-family: sans-serif; font-size: 16px; line-height: 22px;">
+                                                 <td>or</td>
+                                              </tr>
+                                              <tr>
+                                                 <td><a href="https://www.mobiroster.com/mobiroster/activation.php?activationCode={activation_code}">https://www.mobiroster.com/mobiroster/activation.php?activationCode={activation_code}</a></td>
+                                              </tr>
+                                           </tbody>
+                                        </table>
+                                     </td>
+                                  </tr>
+                               </tbody>
+                            </table>
+                         </td>
+                      </tr>
+                   </tbody>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>
+             </td>
+          </tr>
+       </table>
+       <![endif]-->
+    </td>
+ </tr>

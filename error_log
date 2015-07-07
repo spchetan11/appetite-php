@@ -1,0 +1,396 @@
+[31-Dec-2014 06:43:19 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 251
+[31-Dec-2014 06:43:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 251
+[31-Dec-2014 06:44:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 251
+[31-Dec-2014 06:45:29 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 251
+[31-Dec-2014 06:46:23 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 251
+[31-Dec-2014 06:48:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 06:49:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 06:50:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 07:10:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 07:21:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 07:34:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 10:04:44 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 260
+[31-Dec-2014 10:04:47 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 260
+[31-Dec-2014 10:06:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 260
+[31-Dec-2014 10:06:47 UTC] PHP Fatal error:  Call to undefined method DBFunctions::getSpecial() in /home/mobiroster/public_html/hangouts/php/modes.php on line 127
+[31-Dec-2014 10:08:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 10:12:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 10:28:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[31-Dec-2014 10:29:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 247
+[02-Jan-2015 05:38:36 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/mobiroster/public_html/hangouts/php/modes.php on line 190
+[02-Jan-2015 05:41:45 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/mobiroster/public_html/hangouts/php/modes.php on line 190
+[02-Jan-2015 05:42:26 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/mobiroster/public_html/hangouts/php/modes.php on line 190
+[02-Jan-2015 05:57:01 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/mobiroster/public_html/hangouts/php/modes.php on line 190
+[02-Jan-2015 05:57:44 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/mobiroster/public_html/hangouts/php/modes.php on line 190
+[02-Jan-2015 07:26:47 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 264
+[02-Jan-2015 09:25:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 270
+[05-Jan-2015 10:10:27 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:10:51 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:11:17 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:11:47 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:13:23 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:13:34 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:13:47 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:14:49 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:14:50 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[05-Jan-2015 10:15:45 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/mobiroster/public_html/hangouts/index.php on line 86
+[06-Jan-2015 10:42:32 UTC] PHP Fatal error:  Call to undefined function generateRandomString() in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 126
+[07-Jan-2015 11:46:52 UTC] PHP Fatal error:  Call to undefined method DBFunctions::getOffers() in /home/mobiroster/public_html/hangouts/php/modes.php on line 247
+[08-Jan-2015 06:04:11 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 14
+[08-Jan-2015 09:48:08 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 14
+[08-Jan-2015 09:55:12 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 14
+[09-Jan-2015 10:49:56 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 385
+[09-Jan-2015 10:50:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 386
+[09-Jan-2015 10:51:59 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 371
+[10-Jan-2015 12:29:41 UTC] PHP Parse error:  syntax error, unexpected 'status' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 36
+[12-Jan-2015 06:48:23 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:04:59 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:05:24 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:05:43 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:06:13 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:08:18 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:09:13 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:09:18 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:11:11 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:11:49 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:12:07 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 07:13:54 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/session_test.php on line 7
+[12-Jan-2015 12:25:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/modes.php on line 245
+[12-Jan-2015 12:25:56 UTC] PHP Fatal error:  Call to undefined method Modes::getUserOffer() in /home/mobiroster/public_html/hangouts/php/modes.php on line 234
+[13-Jan-2015 09:35:43 UTC] PHP Warning:  Missing argument 1 for Modes::forgotPassword(), called in /home/mobiroster/public_html/hangouts/index.php on line 97 and defined in /home/mobiroster/public_html/hangouts/php/modes.php on line 88
+[28-Jan-2015 11:21:47 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 405
+[28-Jan-2015 11:21:54 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 405
+[28-Jan-2015 11:22:23 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 405
+[28-Jan-2015 11:22:34 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 405
+[05-Feb-2015 10:36:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:36:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 110
+[05-Feb-2015 10:36:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:36:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 110
+[05-Feb-2015 10:36:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:36:43 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 93
+[05-Feb-2015 10:36:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:36:50 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 93
+[05-Feb-2015 10:37:00 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:37:00 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 110
+[05-Feb-2015 10:37:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:37:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 74
+[05-Feb-2015 10:37:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:37:26 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 260
+[05-Feb-2015 10:38:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:38:20 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 93
+[05-Feb-2015 10:39:03 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:39:03 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 74
+[05-Feb-2015 10:40:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:40:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 260
+[05-Feb-2015 10:41:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:41:50 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 74
+[05-Feb-2015 10:42:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:42:35 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 74
+[05-Feb-2015 10:43:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:43:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 74
+[05-Feb-2015 10:45:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[05-Feb-2015 10:45:53 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 74
+[05-Feb-2015 13:46:33 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 208
+[05-Feb-2015 13:47:15 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 208
+[05-Feb-2015 13:50:26 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 229
+[05-Feb-2015 13:53:53 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 229
+[05-Feb-2015 13:54:09 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/modes.php on line 323
+[05-Feb-2015 13:54:57 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/modes.php on line 323
+[05-Feb-2015 13:55:31 UTC] PHP Parse error:  syntax error, unexpected 'OFFER' (T_STRING) in /home/mobiroster/public_html/hangouts/php/modes.php on line 323
+[05-Feb-2015 13:58:16 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/mobiroster/public_html/hangouts/index.php on line 169
+[06-Feb-2015 06:20:10 UTC] PHP Warning:  Missing argument 1 for DBFunctions::getOffers(), called in /home/mobiroster/public_html/hangouts/php/modes.php on line 319 and defined in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 396
+[06-Feb-2015 06:20:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 417
+[06-Feb-2015 06:24:11 UTC] PHP Warning:  Missing argument 1 for DBFunctions::getOffers(), called in /home/mobiroster/public_html/hangouts/php/modes.php on line 319 and defined in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 396
+[06-Feb-2015 06:24:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 417
+[06-Feb-2015 06:25:22 UTC] PHP Warning:  Missing argument 1 for DBFunctions::getOffers(), called in /home/mobiroster/public_html/hangouts/php/modes.php on line 319 and defined in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 396
+[06-Feb-2015 06:25:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 417
+[06-Feb-2015 06:32:11 UTC] PHP Warning:  Missing argument 1 for DBFunctions::getOffers(), called in /home/mobiroster/public_html/hangouts/php/modes.php on line 299 and defined in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 396
+[06-Feb-2015 06:32:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 417
+[06-Feb-2015 06:37:42 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 417
+[06-Feb-2015 06:41:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 417
+[06-Feb-2015 10:47:12 UTC] PHP Fatal error:  Call to undefined method DBFunctions::redeemOffer() in /home/mobiroster/public_html/hangouts/php/modes.php on line 321
+[06-Feb-2015 14:07:07 UTC] PHP Parse error:  syntax error, unexpected '!==' (T_IS_NOT_IDENTICAL), expecting ',' or ')' in /home/mobiroster/public_html/hangouts/index.php on line 163
+[06-Feb-2015 14:07:09 UTC] PHP Parse error:  syntax error, unexpected '!==' (T_IS_NOT_IDENTICAL), expecting ',' or ')' in /home/mobiroster/public_html/hangouts/index.php on line 163
+[06-Feb-2015 14:11:21 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/mobiroster/public_html/hangouts/index.php on line 163
+[06-Feb-2015 14:11:29 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/mobiroster/public_html/hangouts/index.php on line 163
+[06-Feb-2015 14:15:29 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/mobiroster/public_html/hangouts/index.php on line 163
+[06-Feb-2015 14:18:43 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:19:22 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:19:31 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:19:36 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:19:56 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:20:11 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:20:44 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:21:04 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:21:05 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[06-Feb-2015 14:21:06 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/mobiroster/public_html/hangouts/index.php on line 166
+[07-Feb-2015 11:22:30 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 93
+[07-Feb-2015 11:22:31 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 93
+[07-Feb-2015 11:22:52 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 93
+[07-Feb-2015 11:23:11 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 98
+[07-Feb-2015 11:23:28 UTC] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/mobiroster/public_html/hangouts/php/config.php on line 98
+[07-Feb-2015 14:06:20 UTC] PHP Parse error:  syntax error, unexpected ''+24 hours'' (T_CONSTANT_ENCAPSED_STRING) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 399
+[07-Feb-2015 14:06:22 UTC] PHP Parse error:  syntax error, unexpected ''+24 hours'' (T_CONSTANT_ENCAPSED_STRING) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 399
+[07-Feb-2015 14:06:24 UTC] PHP Parse error:  syntax error, unexpected ''+24 hours'' (T_CONSTANT_ENCAPSED_STRING) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 399
+[09-Feb-2015 09:20:36 UTC] PHP Fatal error:  Class 'DB_Functions' not found in /home/mobiroster/public_html/hangouts/index.php on line 9
+[09-Feb-2015 09:23:58 UTC] PHP Fatal error:  Class 'DB_Functions' not found in /home/mobiroster/public_html/hangouts/index.php on line 9
+[09-Feb-2015 09:24:42 UTC] PHP Fatal error:  Class 'DB_Functions' not found in /home/mobiroster/public_html/hangouts/index.php on line 9
+[09-Feb-2015 09:24:53 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:24:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:25:13 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:25:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:25:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:25:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:25:56 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:25:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:26:46 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:26:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:27:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:27:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:27:09 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:27:09 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:28:36 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:28:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:28:49 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:28:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:29:28 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:29:28 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:30:53 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:30:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:31:12 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:31:12 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:31:57 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:31:57 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:32:16 UTC] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[09-Feb-2015 09:32:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 21
+[10-Feb-2015 13:35:11 UTC] PHP Parse error:  syntax error, unexpected '"AND BETWEEN "' (T_CONSTANT_ENCAPSED_STRING) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 424
+[11-Feb-2015 14:32:58 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 298
+[11-Feb-2015 14:34:15 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 298
+[11-Feb-2015 14:36:03 Australia/Perth] PHP Warning:  mysql_query(): Access denied for user 'mobiroster'@'localhost' (using password: NO) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 295
+[11-Feb-2015 14:36:03 Australia/Perth] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 295
+[11-Feb-2015 14:36:03 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 299
+[11-Feb-2015 14:36:12 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 299
+[11-Feb-2015 14:38:11 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 299
+[11-Feb-2015 14:38:42 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 299
+[11-Feb-2015 14:38:44 Australia/Perth] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 299
+[11-Feb-2015 08:04:36 UTC] PHP Fatal error:  Call to undefined function date_default_timestamp_set() in /home/mobiroster/public_html/hangouts/index.php on line 15
+[11-Feb-2015 19:00:56 Australia/Perth] PHP Fatal error:  Call to undefined function strinpslashes() in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 301
+[11-Feb-2015 19:04:24 Australia/Perth] PHP Fatal error:  Call to undefined function clean() in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 302
+[11-Feb-2015 19:05:09 Australia/Perth] PHP Fatal error:  Call to undefined function clean() in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 304
+[11-Feb-2015 19:05:10 Australia/Perth] PHP Fatal error:  Call to undefined function clean() in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 304
+[11-Feb-2015 19:05:41 Australia/Perth] PHP Fatal error:  Call to undefined function clean() in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 304
+[13-Feb-2015 11:38:45 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 456
+[17-Feb-2015 09:42:39 UTC] PHP Parse error:  syntax error, unexpected '7' (T_LNUMBER) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 441
+[17-Feb-2015 09:42:55 UTC] PHP Parse error:  syntax error, unexpected '7' (T_LNUMBER) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 441
+[17-Feb-2015 09:43:01 UTC] PHP Parse error:  syntax error, unexpected '7' (T_LNUMBER) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 441
+[17-Feb-2015 09:43:10 UTC] PHP Parse error:  syntax error, unexpected '7' (T_LNUMBER) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 441
+[18-Feb-2015 13:22:21 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:22:23 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:22:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:22:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:23:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:23:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:23:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:23:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[18-Feb-2015 13:23:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 278
+[25-Feb-2015 12:01:20 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 475
+[25-Feb-2015 12:43:21 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 538
+[25-Feb-2015 12:43:24 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 538
+[25-Feb-2015 12:43:34 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 538
+[26-Feb-2015 20:56:43 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/commons.php on line 72
+[04-Mar-2015 10:35:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 10:35:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 10:35:40 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 10:36:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 10:37:01 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 10:37:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 10:37:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/modes.php on line 339
+[04-Mar-2015 13:18:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 579
+[05-Mar-2015 06:52:34 UTC] PHP Fatal error:  Cannot redeclare class DB_Connect in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 4
+[05-Mar-2015 06:59:22 UTC] PHP Fatal error:  Cannot redeclare class AdminDBFunctions in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 13
+[10-Mar-2015 04:08:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:08:03 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[10-Mar-2015 04:08:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:08:15 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[10-Mar-2015 04:08:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:08:52 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[10-Mar-2015 04:08:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:08:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[10-Mar-2015 04:08:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:08:59 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[10-Mar-2015 04:16:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:16:03 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[10-Mar-2015 04:19:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1135): Can't create a new thread (errno 11); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/mobiroster/public_html/hangouts/php/db_connect.php on line 14
+[10-Mar-2015 04:19:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 26
+[12-Mar-2015 11:35:59 UTC] PHP Parse error:  syntax error, unexpected 'COL_ADDED_ON' (T_STRING) in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 467
+[18-Mar-2015 06:21:46 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/mobiroster/public_html/hangouts/php/modes.php on line 111
+[20-Mar-2015 17:50:40 Australia/Perth] PHP Fatal error:  Call to undefined function length() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 152
+[20-Mar-2015 09:55:46 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 151
+[20-Mar-2015 10:16:24 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 191
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:08 Australia/Perth] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[20-Mar-2015 18:17:34 Australia/Perth] PHP Warning:  explode() expects parameter 1 to be string, array given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 182
+[25-Mar-2015 06:13:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 552
+[25-Mar-2015 06:13:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 552
+[25-Mar-2015 06:14:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 552
+[25-Mar-2015 06:18:17 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 552
+[25-Mar-2015 06:20:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 552
+[25-Mar-2015 06:21:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 571
+[25-Mar-2015 17:20:47 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 381
+[25-Mar-2015 17:21:41 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 381
+[25-Mar-2015 17:22:01 Asia/Calcutta] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 382
+[26-Mar-2015 11:43:55 Asia/Calcutta] PHP Warning:  Missing argument 6 for Modes::updateFacebookDetails(), called in /home/mobiroster/public_html/hangouts/index.php on line 133 and defined in /home/mobiroster/public_html/hangouts/php/modes.php on line 119
+[27-Mar-2015 11:41:54 Asia/Calcutta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 537
+[27-Mar-2015 11:46:02 Asia/Calcutta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/mobiroster/public_html/hangouts/php/db_functions.php on line 500
+[09-Apr-2015 19:19:35 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 726
+[09-Apr-2015 19:19:35 Australia/Perth] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 760
+[09-Apr-2015 19:21:17 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 726
+[09-Apr-2015 19:21:17 Australia/Perth] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 760
+[09-Apr-2015 19:21:38 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 726
+[09-Apr-2015 19:21:38 Australia/Perth] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 760
+[09-Apr-2015 11:29:08 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 732
+[09-Apr-2015 11:29:24 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 744
+[09-Apr-2015 19:36:49 Australia/Perth] PHP Warning:  array_merge(): Argument #2 is not an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 740
+[10-Apr-2015 13:58:51 Australia/Perth] PHP Fatal error:  Call to undefined method AdminDBFunctions::GalleryImages() in /home/mobiroster/public_html/hangouts/php/admin_modes.php on line 378
+[10-Apr-2015 14:10:28 Australia/Perth] PHP Warning:  move_uploaded_file(/data/gallery/asdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 783
+[10-Apr-2015 14:10:28 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpv75xY9' to '/data/gallery/asdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 783
+[10-Apr-2015 14:12:05 Australia/Perth] PHP Warning:  move_uploaded_file(/data/gallery/asdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 783
+[10-Apr-2015 14:12:05 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcuRvWa' to '/data/gallery/asdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 783
+[15-Apr-2015 13:30:16 Australia/Perth] PHP Warning:  move_uploaded_file(/data/gallery/asdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 784
+[15-Apr-2015 13:30:16 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAGjaUG' to '/data/gallery/asdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 784
+[15-Apr-2015 06:39:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 780
+[15-Apr-2015 06:41:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 780
+[15-Apr-2015 14:44:30 Australia/Perth] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 781
+[15-Apr-2015 14:44:30 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplPlIzI' to '' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 781
+[15-Apr-2015 14:50:28 Australia/Perth] PHP Warning:  move_uploaded_file(/data/galleryasdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 14:50:28 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppSj4ia' to '/data/galleryasdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 14:51:04 Australia/Perth] PHP Warning:  move_uploaded_file(/data/gallery/asdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 14:51:04 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmBclW3' to '/data/gallery/asdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 15:07:35 Australia/Perth] PHP Warning:  move_uploaded_file(/data/gallery/asdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 15:07:35 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1NjTWi' to '/data/gallery/asdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 15:11:55 Australia/Perth] PHP Warning:  move_uploaded_file(/data/gallery/asdf.jpg): failed to open stream: No such file or directory in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[15-Apr-2015 15:11:55 Australia/Perth] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGWsmow' to '/data/gallery/asdf.jpg' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 782
+[24-Apr-2015 05:14:03 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 577
+[28-Apr-2015 08:25:38 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 236
+[28-Apr-2015 08:30:50 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mobiroster/public_html/hangouts/php/admin_modes.php on line 96
+[28-Apr-2015 08:40:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 235
+[28-Apr-2015 16:41:11 Australia/Perth] PHP Fatal error:  Call to undefined method mysqli::fetch_assoc() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 189
+[28-Apr-2015 16:43:03 Australia/Perth] PHP Fatal error:  Call to undefined method mysqli::fetch_array() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 189
+[28-Apr-2015 08:47:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
+[28-Apr-2015 16:48:10 Australia/Perth] PHP Warning:  is_file() expects exactly 1 parameter, 0 given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 235
+[28-Apr-2015 19:23:35 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 739
+[28-Apr-2015 19:23:35 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 739
+[29-Apr-2015 13:36:21 Australia/Perth] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 921
+[29-Apr-2015 19:05:41 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 573
+[29-Apr-2015 19:06:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 787
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 546
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 547
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 546
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 547
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 546
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 547
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 546
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 547
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 546
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 547
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 546
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 547
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  implode(): Invalid arguments passed in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 555
+[04-May-2015 14:16:56 Australia/Perth] PHP Warning:  implode(): Invalid arguments passed in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 555
+[04-May-2015 07:15:24 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 518
+[04-May-2015 15:34:38 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 498
+[04-May-2015 11:16:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 537
+[04-May-2015 19:17:20 Australia/Perth] PHP Fatal error:  Call to a member function insert_id() on a non-object in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 524
+[04-May-2015 19:18:23 Australia/Perth] PHP Fatal error:  Call to undefined method mysqli::insert_id() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 524
+[05-May-2015 17:32:09 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 633
+[05-May-2015 17:32:09 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 633
+[05-May-2015 17:32:09 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 633
+[05-May-2015 17:32:09 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 633
+[05-May-2015 17:32:09 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 633
+[05-May-2015 09:43:22 UTC] PHP Parse error:  syntax error, unexpected '$filename' (T_VARIABLE) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 624
+[05-May-2015 17:48:42 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 636
+[05-May-2015 17:48:42 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 636
+[05-May-2015 17:48:42 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 636
+[05-May-2015 17:48:42 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 636
+[05-May-2015 17:48:42 Australia/Perth] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 636
+[05-May-2015 17:48:42 Australia/Perth] PHP Warning:  implode(): Invalid arguments passed in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 670
+[05-May-2015 17:49:13 Australia/Perth] PHP Warning:  implode(): Invalid arguments passed in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 671
+[05-May-2015 10:07:23 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 720
+[05-May-2015 18:09:02 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 675
+[05-May-2015 18:12:06 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 679
+[05-May-2015 18:16:17 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 685
+[05-May-2015 19:07:55 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 694
+[06-May-2015 14:23:13 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 695
+[06-May-2015 15:00:44 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 696
+[06-May-2015 15:26:49 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 696
+[08-May-2015 10:18:16 Australia/Perth] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 977
+[08-May-2015 10:18:57 Australia/Perth] PHP Fatal error:  Cannot break/continue 1 level in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 977
+[08-May-2015 14:56:09 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 644
+[08-May-2015 14:56:27 Australia/Perth] PHP Fatal error:  Function name must be a string in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 651
+[08-May-2015 15:39:43 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_modes.php on line 290
+[08-May-2015 15:39:43 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_modes.php on line 292
+[08-May-2015 15:39:43 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_modes.php on line 293
+[13-May-2015 15:19:33 Australia/Perth] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 528
+[28-May-2015 20:16:16 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1175
+[28-May-2015 20:16:16 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1175
+[28-May-2015 20:16:16 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1175
+[28-May-2015 20:16:16 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1175
+[28-May-2015 20:18:22 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:18:22 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:18:22 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:18:22 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:21:04 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:21:04 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:21:04 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:21:05 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:24:10 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:24:10 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:25:15 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:25:15 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:29:43 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:29:43 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[28-May-2015 20:30:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[28-May-2015 20:30:56 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[28-May-2015 20:31:40 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[28-May-2015 20:31:40 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:30:57 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[29-May-2015 17:30:57 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1176
+[29-May-2015 17:40:02 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:40:02 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:41:42 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:41:42 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:41:42 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:41:42 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1177
+[29-May-2015 17:42:51 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:42:51 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:42:51 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:42:51 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:49:55 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:49:55 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:49:55 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[29-May-2015 17:49:55 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 1178
+[11-Jun-2015 11:39:42 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 199
+[11-Jun-2015 11:39:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 199
+[11-Jun-2015 19:40:25 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 250
+[11-Jun-2015 19:40:25 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 250
+[11-Jun-2015 19:40:25 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 250
+[11-Jun-2015 19:40:25 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 250
+[11-Jun-2015 19:40:25 Australia/Perth] PHP Warning:  Cannot use a scalar value as an array in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 250
+[11-Jun-2015 19:40:25 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 250
+[12-Jun-2015 16:26:36 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
+[12-Jun-2015 16:26:36 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
+[12-Jun-2015 16:27:20 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
+[12-Jun-2015 16:27:20 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
+[12-Jun-2015 16:28:46 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
+[12-Jun-2015 16:28:46 Australia/Perth] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/mobiroster/public_html/hangouts/php/admin_db_functions.php on line 234
